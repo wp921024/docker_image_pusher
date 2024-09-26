@@ -2,7 +2,7 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
-apache/flink:1.16.0-scala_2.12-java8
+apache/flink:1.17.0-java8
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
